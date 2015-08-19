@@ -1,0 +1,1 @@
+# obeliskagi.bootstrappers.structuremap-csharp
