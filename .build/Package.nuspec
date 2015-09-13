@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Obelisk.Agi.Bootstrappers.Structuremap</id>
+    <version>0.0.1-alpha</version>
+    <authors>troytowson</authors>
+    <owners>troytowson</owners>
+    <licenseUrl>https://github.com/troytowson/obeliskagi.bootstrappers.structuremap-csharp/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/troytowson/obeliskagi.bootstrappers.structuremap-csharp</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>A Structuremap bootstrapper for Obelisk.Agi</description>
+    <copyright>Copyright 2015</copyright>
+    <tags>Obelisk.Agi.Bootstrappers.Structuremap</tags>
+    <dependencies>
+      <dependency id="Obelisk.Agi" version="0.0.1" />
+      <dependency id="Structuremap" version="3.1.6" />
+    </dependencies>
+    </metadata>
+    <files>
+        <file src="..\src\Obelisk.Agi.Bootstrappers.Structuremap\bin\Release\Obelisk.Agi.Bootstrappers.Structuremap.dll" target="lib\net45" />
+    </files>
+</package>
